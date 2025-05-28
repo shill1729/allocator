@@ -1,0 +1,12 @@
+name: allocator
+title: allocator
+username: shill93
+account: shill93
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14843645
+bundleId: 10359055
+url: https://shill93.shinyapps.io/allocator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
