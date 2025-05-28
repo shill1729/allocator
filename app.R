@@ -12,6 +12,7 @@ library(ravapi)
 library(trader)
 library(optport)
 library(findistr)
+readRenviron(".Renviron")
 
 # Utility Functions
 get_latest_quote <- function(symbol) {
